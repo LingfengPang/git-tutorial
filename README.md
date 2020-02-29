@@ -1,2 +1,7 @@
-#gitJ教程
+<<<<<<< HEAD
+#git
 -feture-A
+
+
+-fix-B
+>>>>>>> fix-B
