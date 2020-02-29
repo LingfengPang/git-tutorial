@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 #git
--feture-A
 
-
+-feature-A
 -fix-B
->>>>>>> fix-B
+-feature-C
